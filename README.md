@@ -1,0 +1,1 @@
+ColorDict is Android Application.
